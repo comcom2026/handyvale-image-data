@@ -1,0 +1,5 @@
+Crop to,Resulting size,Pixels kept,Pixels thrown away,% thrown away,source_page
+16:9,3000×1688,"5,064,000","6,936,000",57.8%,https://handyvale.com/photo-cropper
+4:3,3000×2250,"6,750,000","5,250,000",43.75%,https://handyvale.com/photo-cropper
+1:1,3000×3000,"9,000,000","3,000,000",25.0%,https://handyvale.com/photo-cropper
+9:16,2250×4000,"9,000,000","3,000,000",25.0%,https://handyvale.com/photo-cropper

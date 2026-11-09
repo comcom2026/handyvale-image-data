@@ -1,0 +1,6 @@
+You put in,You can get out,Worth knowing,source_page
+JPG / JPEG,"PNG, JPG, WebP",No transparency to lose. Usually the smallest output is JPG.,https://handyvale.com/how-to-flip-an-image
+PNG,"PNG, JPG, WebP",Export PNG or WebP to keep transparency. JPG will fill it white.,https://handyvale.com/how-to-flip-an-image
+WebP,"PNG, JPG, WebP",WebP output is normally the smallest of the three.,https://handyvale.com/how-to-flip-an-image
+GIF,"PNG, JPG, WebP",Only the first frame is flipped. The result is a still image.,https://handyvale.com/how-to-flip-an-image
+BMP,"PNG, JPG, WebP",A common reason to flip a BMP is to convert it at the same time.,https://handyvale.com/how-to-flip-an-image
