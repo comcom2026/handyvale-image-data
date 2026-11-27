@@ -24,3 +24,14 @@ Total data rows: **64** (measured).
 - Values are tied to the specific test images, encoders and quality settings used on the source pages.
 - Percentages and byte counts are as printed on the source pages; no rounding was applied by this repository.
 - If a source page changes, the CSV is a snapshot and may no longer match.
+
+## 2026-11-27 additions (locally measured, not transcribed)
+
+| CSV | Setting sweep | Method | Measured at | Source page |
+| --- | --- | --- | --- | --- |
+| `data/bulk-threshold-sweep.csv` | thresholds 32, 64, 96, 128, 160, 192, 224 | Pillow `point` threshold on a fixed 12-file corpus; totals over 11 decodable files | 2026-11-26T09:07:54 | https://handyvale.com/bulk-threshold-image |
+| `data/bulk-threshold-per-file.csv` | same thresholds, one row per file | Same run, per-file columns | 2026-11-26T09:07:54 | https://handyvale.com/bulk-threshold-image |
+| `data/bulk-pixelate-sweep.csv` | blocks 2, 4, 8, 16, 32, 64, 100 | block mean, grid anchored at top-left, edge padding | 2026-11-27T09:23:21 | https://handyvale.com/bulk-pixelate-effect-image |
+| `data/bulk-pixelate-per-file.csv` | same blocks, one row per file | Same run, per-file columns | 2026-11-27T09:23:21 | https://handyvale.com/bulk-pixelate-effect-image |
+
+These four CSVs were generated from the local experiment JSON files that produced the linked articles. The values are observations of that fixed corpus and those encoder settings; they are not universal constants.

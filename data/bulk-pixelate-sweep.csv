@@ -1,0 +1,8 @@
+block_px,changed_px,cells,total_px,edge_px,method,measured_at,source_page
+2,28415600,15754096,63016384,0,"block mean, grid anchored at top-left, pad=edge",2026-11-27T09:23:21,https://handyvale.com/bulk-pixelate-effect-image
+4,33688998,3938524,63016384,0,"block mean, grid anchored at top-left, pad=edge",2026-11-27T09:23:21,https://handyvale.com/bulk-pixelate-effect-image
+8,36645735,984881,63016384,16000,"block mean, grid anchored at top-left, pad=edge",2026-11-27T09:23:21,https://handyvale.com/bulk-pixelate-effect-image
+16,38920393,246983,63016384,217536,"block mean, grid anchored at top-left, pad=edge",2026-11-27T09:23:21,https://handyvale.com/bulk-pixelate-effect-image
+32,40603366,61818,63016384,654784,"block mean, grid anchored at top-left, pad=edge",2026-11-27T09:23:21,https://handyvale.com/bulk-pixelate-effect-image
+64,42487015,15612,63016384,1826240,"block mean, grid anchored at top-left, pad=edge",2026-11-27T09:23:21,https://handyvale.com/bulk-pixelate-effect-image
+100,44956292,6304,63016384,6384,"block mean, grid anchored at top-left, pad=edge",2026-11-27T09:23:21,https://handyvale.com/bulk-pixelate-effect-image

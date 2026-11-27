@@ -1,0 +1,8 @@
+threshold,changed_px,changed_pct,white_px,white_pct,black_px,black_pct,measured_at,source_page
+32,42995243,68.229,42662464,67.701,20353920,32.299,2026-11-26T09:07:54,https://handyvale.com/bulk-threshold-image
+64,42995243,68.229,37642864,59.735,25373520,40.265,2026-11-26T09:07:54,https://handyvale.com/bulk-threshold-image
+96,42995243,68.229,32829234,52.096,30187150,47.904,2026-11-26T09:07:54,https://handyvale.com/bulk-threshold-image
+128,42995243,68.229,26905953,42.697,36110431,57.303,2026-11-26T09:07:54,https://handyvale.com/bulk-threshold-image
+160,42995243,68.229,19753603,31.347,43262781,68.653,2026-11-26T09:07:54,https://handyvale.com/bulk-threshold-image
+192,42995243,68.229,9738609,15.454,53277775,84.546,2026-11-26T09:07:54,https://handyvale.com/bulk-threshold-image
+224,42995243,68.229,2353896,3.735,60662488,96.265,2026-11-26T09:07:54,https://handyvale.com/bulk-threshold-image
